@@ -1,7 +1,7 @@
 # 💰 Expenses Tracker Web Application
 
 ## 📌 Project Overview
-The **Expenses Tracker Web Application** helps users manage their daily income and expenses in a simple and organized way. Users can add transactions, monitor spending habits, and view a clear financial summary through an interactive dashboard.
+The **Expenses Tracker Web Application** helps users manage their daily income and expenses in a simple and organised way. Users can add transactions, monitor spending habits, and view a clear financial summary through an interactive dashboard.
 
 ---
 
